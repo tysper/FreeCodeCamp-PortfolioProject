@@ -19,3 +19,5 @@ I finished, and here is a quick summary of what I learnt, or practiced:
 </ul>
 
 The link for the final version is this one: <a href="https://codepen.io/tysper013/full/mdwEZEJ" target="blank">Codepen Link</a>.
+
+<p><em>*Note: the projects' section does not have any projects linked to it, I was trying to do the loading animation, so please don't wait to load lol, because it won't.</em></p>
